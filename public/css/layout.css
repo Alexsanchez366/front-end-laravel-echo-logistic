@@ -1,0 +1,43 @@
+.carousel {
+    width: 800px;
+    height: 300px; 
+    margin-top: 20px;
+  }
+
+  .conteiner {
+    
+    background-color: #171728; 
+    color: #04c9e7; 
+    font-size: 26px; 
+    padding: 10px; 
+
+    text-align: center; /* Centrar el texto horizontalmente */
+    margin-top: 50px; /* Establecer el margen superior deseado (ajústalo según tus necesidades) */
+    margin-bottom: 50px;
+
+    font-family: cursive;
+
+  }
+
+#nav{
+    color: #ebeff7;
+    background-color: #1c436a;
+}
+
+#carouselExample{
+    display: flex;
+      justify-content: center;
+      margin-left: 300px;
+}
+
+img{
+    justify-items: auto;
+}
+
+  body{
+    background-color: #171728;
+  }
+
+  h5{
+    color: indianred;
+  }
